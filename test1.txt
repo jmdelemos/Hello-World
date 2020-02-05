@@ -1,1 +1,7 @@
 printf("heloo world");
+
+inf soma (inf x, inty)
+{
+  Inf x, y;
+   Inf soma = x+y,
+}
